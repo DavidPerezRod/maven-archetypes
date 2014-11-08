@@ -7,7 +7,7 @@
     <version>${version}</version>
     <packaging>jar</packaging>
 
-    <name>edwise-quickstart</name>
+    <name>${artifactId}</name>
     <url>http://maven.apache.org</url>
 
     <properties>
