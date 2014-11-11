@@ -16,7 +16,7 @@ groupId: com.edwise.archetype
 
 artifactId: maven-archetype-edwise-quickstart
 
-version: 0.2
+version: 0.3
 
 <br/>
 Pasos para usarlo:
