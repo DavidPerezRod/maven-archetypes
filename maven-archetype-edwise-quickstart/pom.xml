@@ -5,7 +5,7 @@
 
     <groupId>com.edwise.archetype</groupId>
     <artifactId>maven-archetype-edwise-quickstart</artifactId>
-    <version>0.3</version>
+    <version>0.3.1</version>
     <packaging>maven-archetype</packaging>
 
     <name>maven-archetype-edwise-quickstart</name>
