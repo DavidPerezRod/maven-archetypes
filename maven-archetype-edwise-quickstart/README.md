@@ -6,6 +6,7 @@ Archetype maven basado en el quickstart de apache, pero con los siguientes cambi
 - Formateado de ficheros pom y java
 - En el pom, versión junit actualizada
 - En el pom, property java.version a 1.8
+- En el pom, maven-compiler-plugin, con java.version
 - Renombradas clases java a Application
 - Clase test de junit4
 - Otras modificaciones de código
@@ -16,7 +17,7 @@ groupId: com.edwise.archetype
 
 artifactId: maven-archetype-edwise-quickstart
 
-version: 0.3.1
+version: 0.4
 
 <br/>
 Pasos para usarlo:
