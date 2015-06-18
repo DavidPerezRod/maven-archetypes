@@ -17,7 +17,7 @@ groupId: com.edwise.archetype
 
 artifactId: maven-archetype-edwise-quickstart
 
-version: 0.4
+version: 0.4.1
 
 <br/>
 Pasos para usarlo:
@@ -33,4 +33,4 @@ Pasos para usarlo:
     ```
     mvn archetype:generate -DarchetypeGroupId=com.edwise.archetype -DarchetypeArtifactId=maven-archetype-edwise-quickstart
     ```
- También puede usarse desde un IDE, por ejemplo, en Intellij: 'Create New Proyect', seleccionamos 'Maven', chequeamos  'Create from archetype', pulsamos en 'Add archetype...' y rellenamos con los datos del archetype.
+ También puede usarse desde un IDE, por ejemplo, en Intellij: 'Create New Project', seleccionamos 'Maven', chequeamos  'Create from archetype', pulsamos en 'Add archetype...' y rellenamos con los datos del archetype.
